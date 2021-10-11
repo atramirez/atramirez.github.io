@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/atramirez.github.io/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/atramirez.github.io/static/js/main.48e76eff.chunk.js",
-    "main.js.map": "/atramirez.github.io/static/js/main.48e76eff.chunk.js.map",
-    "runtime-main.js": "/atramirez.github.io/static/js/runtime-main.5fd7d5ba.js",
-    "runtime-main.js.map": "/atramirez.github.io/static/js/runtime-main.5fd7d5ba.js.map",
-    "static/js/2.23c2f5cf.chunk.js": "/atramirez.github.io/static/js/2.23c2f5cf.chunk.js",
-    "static/js/2.23c2f5cf.chunk.js.map": "/atramirez.github.io/static/js/2.23c2f5cf.chunk.js.map",
-    "static/js/3.dca36a58.chunk.js": "/atramirez.github.io/static/js/3.dca36a58.chunk.js",
-    "static/js/3.dca36a58.chunk.js.map": "/atramirez.github.io/static/js/3.dca36a58.chunk.js.map",
-    "index.html": "/atramirez.github.io/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/atramirez.github.io/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.23c2f5cf.chunk.js.LICENSE.txt": "/atramirez.github.io/static/js/2.23c2f5cf.chunk.js.LICENSE.txt"
+    "main.css": "/personal-website/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/personal-website/static/js/main.fb2d5b16.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.fb2d5b16.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.e90cf1a1.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.e90cf1a1.js.map",
+    "static/js/2.23c2f5cf.chunk.js": "/personal-website/static/js/2.23c2f5cf.chunk.js",
+    "static/js/2.23c2f5cf.chunk.js.map": "/personal-website/static/js/2.23c2f5cf.chunk.js.map",
+    "static/js/3.dca36a58.chunk.js": "/personal-website/static/js/3.dca36a58.chunk.js",
+    "static/js/3.dca36a58.chunk.js.map": "/personal-website/static/js/3.dca36a58.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/personal-website/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.23c2f5cf.chunk.js.LICENSE.txt": "/personal-website/static/js/2.23c2f5cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fd7d5ba.js",
+    "static/js/runtime-main.e90cf1a1.js",
     "static/js/2.23c2f5cf.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.48e76eff.chunk.js"
+    "static/js/main.fb2d5b16.chunk.js"
   ]
 }

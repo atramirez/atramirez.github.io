@@ -13,7 +13,7 @@ function About() {
                 <p> Hello! My name is Aden Ramirez, I am a third year Data Science Student at Arizona State University. </p>
                 <br />
 
-                <p> I have a passion for making clean simple to understand data visualizations and the behind the scenes of data wharehousing </p>
+                <p> I have a passion for making clean simple to understand data visualizations. I love learning about the behind the scenes of data warehousing </p>
                 <p> Outside coding I love expanding my knowledge by reading, playing games, and teaching others </p>
 
                 <h5> Languages I know</h5>

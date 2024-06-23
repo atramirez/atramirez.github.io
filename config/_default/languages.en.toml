@@ -8,16 +8,16 @@ title = "atramirez"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "assets/img/atramirez_gradient.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
 name = "atramirez"
-#   image = "img/blowfish_logo.png"
-headline = "I'm only human"
-bio = "A little bit about you"
+# image = "assets/img/atramirez_gradient.jpg"
+headline = "Software Engineer"
+# bio = "A little bit about you"
 links = [
 { email = "mailto:atramirezdev@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },

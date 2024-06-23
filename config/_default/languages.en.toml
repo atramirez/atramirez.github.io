@@ -8,14 +8,14 @@ title = "atramirez"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "assets/img/atramirez_gradient.jpg"
+  # logo = "img/atramirez_gradient.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
 name = "atramirez"
-# image = "assets/img/atramirez_gradient.jpg"
+image = "img/atramirez_gradient.png"
 headline = "Software Engineer"
 # bio = "A little bit about you"
 links = [

@@ -4,9 +4,8 @@
     <title>Tags on atramirez</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on atramirez</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2024 atramirez</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

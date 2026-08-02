@@ -4,6 +4,8 @@ description: "About me page"
 slug: "about"
 ---
 
+All thoughts are my own and not representitve of any company or entities, I currently or formally work for.
+
 ## Professional
 
 ### Education
@@ -14,11 +16,16 @@ I am interested in persuing a masters degree to learn more about business and it
 
 ### Current Work
 
-I am currently a Software Engineer working in Automated Flight Control Systems (AFCS) for fixed wing aircraft at Garmin Aviation.
-I work primarily in C/C++ and Python at work, working on avionics hardware including OEM and retrofit GFC 600/700 platforms.
-I have experience working with DO-178B/C software development procedures, with a heavy emphasis of my work being
+I continue to work in safety critical embedded software at Blue Origin in the Engines Business. I have diverse experience working on BE-3PM testing software, BE-4, BE-3U, and BE-7
+embedded ECU develoipment, testing infrastucture, developer infrastructure and software/hardware integration.
+
+### Previous Work
+
+I previous worked on Automated Flight Control Systems (AFCS) for fixed wing aircraft at Garmin Aviation.
+I worked primarily in C/C++ and Python. I worked on avionics hardware including OEM and retrofit GFC 600/700 platforms.
+I worked closel with DO-178B/C software development procedures, with a heavy emphasis of my work being
 on design assurance level (DAL) of Hazardous or Catastrophic. I have contibuted to programs such as Emergency Autoland, Stall Warning Protection and Envelop Protection.
-Outside of embedded development in my professional career I spend a large amount of my time improving testing and testing framework at system level for devices and flight control features.
+Outside of embedded development, I spent a large amount of my time improving testing and testing framework at system level for devices and flight control features.
 
 ### Personal
 

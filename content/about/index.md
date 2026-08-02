@@ -17,7 +17,7 @@ I am interested in persuing a masters degree to learn more about business and it
 ### Current Work
 
 I continue to work in safety critical embedded software at Blue Origin in the Engines Business. I have diverse experience working on BE-3PM testing software, BE-4, BE-3U, and BE-7
-embedded ECU develoipment, testing infrastucture, developer infrastructure and software/hardware integration.
+embedded ECU development, testing infrastructure, developer infrastructure and software/hardware integration.
 
 ### Previous Work
 
